@@ -1,0 +1,12 @@
+header {
+  justify-content: center !important;
+  text-align: center;
+}
+
+.demo-list-control {
+  width: 400px;
+}
+
+.demo-list-radio {
+  display: inline;
+}
